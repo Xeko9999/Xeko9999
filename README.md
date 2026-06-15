@@ -103,7 +103,7 @@ Vietnam
 
 💼 LinkedIn: [(https://www.linkedin.com/in/duc-huy-tran-17963513a/)]
 
-📧 Email: [Add Your Email]
+📧 Email: [duchuy.tran1299@gmail.com]
 
 ---
 
