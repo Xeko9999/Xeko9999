@@ -73,8 +73,8 @@ Built predictive models to identify high-value customers and support customer re
 Macquarie University
 Sydney, Australia
 
-### Bachelor of International Economics (Honours)
-Foreign Trade University
+### Bachelor of Accountin & Auditing (Honours)
+National Economics University
 Vietnam
 
 ---
