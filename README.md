@@ -47,12 +47,12 @@
 
 ### 📈 Online retail Performance Dashboard
 Developed an interactive dashboard to analyse sales, inventory, and product performance across online marketplaces.
-
+https://github.com/Xeko9999/Online-retail-Sales-Dashboard
 **Tools:** Power BI, SQL, Excel
 
 ### 👥 Airbnb Price prediction
 Analysed Melbourne Airbnb listing data to uncover pricing drivers and build predictive models that support data-driven pricing decisions. The project combines business analytics, machine learning, and data visualisation to generate actionable insights for hosts and property managers.
-
+https://github.com/Xeko9999/melbourne-airbnb-price-prediction
 Tech Stack: Python • Machine Learning • Feature Engineering • EDA
 
 
