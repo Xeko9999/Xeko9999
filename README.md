@@ -45,27 +45,17 @@
 
 ## Featured Projects
 
-### 📈 Marketplace Performance Dashboard
+### 📈 Online retail Performance Dashboard
 Developed an interactive dashboard to analyse sales, inventory, and product performance across online marketplaces.
 
 **Tools:** Power BI, SQL, Excel
 
-### 👥 Customer Segmentation Analysis
-Identified customer segments using clustering techniques and provided data-driven marketing recommendations.
+### 👥 Airbnb Price prediction
+Analysed Melbourne Airbnb listing data to uncover pricing drivers and build predictive models that support data-driven pricing decisions. The project combines business analytics, machine learning, and data visualisation to generate actionable insights for hosts and property managers.
 
-**Tools:** Python, SQL, Power BI
+Tech Stack: Python • Machine Learning • Feature Engineering • EDA
 
-### 🎯 Marketing Campaign Performance Analysis
-Evaluated campaign effectiveness, customer acquisition costs, and return on investment across marketing channels.
 
-**Tools:** SQL, Power BI, Excel
-
-### 🤖 Customer Lifetime Value Prediction
-Built predictive models to identify high-value customers and support customer retention strategies.
-
-**Tools:** Python, Machine Learning
-
----
 
 ## Education
 
