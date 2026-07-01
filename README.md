@@ -55,7 +55,11 @@ Analysed Melbourne Airbnb listing data to uncover pricing drivers and build pred
 
 Tech Stack: Python • Machine Learning • Feature Engineering • EDA
 
+### 🏥 [Medical Insurance Cost Prediction Using Machine Learning](https://github.com/Xeko9999/Medical-Insurance-Cost-Prediction-using-Machine-Learning)
 
+Developed an end-to-end regression model to predict individual medical insurance costs based on demographic and lifestyle factors. Performed data preprocessing, exploratory data analysis, feature engineering, and model comparison to identify the most influential factors affecting insurance charges. The project demonstrates how predictive analytics can support pricing strategies and risk assessment in the healthcare insurance industry.
+
+**Tools:** Python • Pandas • Scikit-learn • XGBoost • CatBoost • Matplotlib • Seaborn
 
 ## Education
 
