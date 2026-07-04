@@ -13,25 +13,23 @@
 🌏 Based in Sydney, Australia
 
 <table>
-<tr>
-<td width="55%">
+  <tr>
+    <td valign="top" width="55%">
 
-- 🔭 I’m currently working on **Business Analytics projects**
-- 🌱 I’m currently learning **Python, SQL, Power BI and Tableau**
-- 👨‍💻 All of my projects are available at **my GitHub repositories**
-- 💬 Ask me about **Data Analytics, Marketing Analytics and Dashboards**
-- 📫 How to reach me **duchuy.tran1299@gmail.com**
-- 📄 Know about my experience **[LinkedIn](https://www.linkedin.com/in/xekoz/)**
-- ⚡ Fun fact **I enjoy solving real business problems with data**
+## 👋 About Me
 
-</td>
-<td width="45%">
+<img align="right" alt="Coding" width="380"
+     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350"/>
+## 👋 About Me
 
-</td>
-</tr>
-</table>
+- 🎓 Master of Business Analytics student at Macquarie University
+- 📊 Passionate about Business Analytics, Customer Analytics & Marketing Analytics
+- 🐍 Skilled in Python, SQL, Tableau & Power BI
+- 🤖 Exploring Machine Learning and Predictive Analytics
+- 📈 Building real-world analytics projects
+- 📫 Reach me at **duchuy.tran1299@gmail.com**
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/xekoz/">linkedin.com/in/xekoz</a>
 
 ## Connect With Me
 <a href="mailto:duchuy.tran1299@gmail.com">
