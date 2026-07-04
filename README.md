@@ -61,7 +61,13 @@ Tech Stack: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-b
 
 Developed an end-to-end regression model to predict individual medical insurance costs based on demographic and lifestyle factors. Performed data preprocessing, exploratory data analysis, feature engineering, and model comparison to identify the most influential factors affecting insurance charges. The project demonstrates how predictive analytics can support pricing strategies and risk assessment in the healthcare insurance industry.
 
-**Tools:** Python • Pandas • Scikit-learn • XGBoost • CatBoost • Matplotlib • Seaborn
+**Tools:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ## Education
 
