@@ -22,7 +22,15 @@
 
 ## Technical Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,pandas,sklearn,matplotlib,tableau,powerbi,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,vscode,git,github" />
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-Learn"/>
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48" height="48" alt="Matplotlib"/>
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI"/>
 </p>
 
 ### Analytics & Programming
