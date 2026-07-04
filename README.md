@@ -24,6 +24,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,mysql,pandas,sklearn,matplotlib,tableau,powerbi,vscode,git,github" />
 </p>
+
 ### Analytics & Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
