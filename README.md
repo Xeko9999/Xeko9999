@@ -29,7 +29,6 @@
   <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas"/>
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-Learn"/>
 </p>
-<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### Analytics & Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
