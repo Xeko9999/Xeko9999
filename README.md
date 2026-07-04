@@ -11,6 +11,28 @@
 💻 Experienced with Python, SQL, Power BI, Tableau, Excel, Machine Learning, and Statistical Analysis
 
 🌏 Based in Sydney, Australia
+
+<table>
+<tr>
+<td width="55%">
+
+- 🔭 I’m currently working on **Business Analytics projects**
+- 🌱 I’m currently learning **Python, SQL, Power BI and Tableau**
+- 👨‍💻 All of my projects are available at **my GitHub repositories**
+- 💬 Ask me about **Data Analytics, Marketing Analytics and Dashboards**
+- 📫 How to reach me **duchuy.tran1299@gmail.com**
+- 📄 Know about my experience **[LinkedIn](https://www.linkedin.com/in/xekoz/)**
+- ⚡ Fun fact **I enjoy solving real business problems with data**
+
+</td>
+<td width="45%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350"/>
+
+</td>
+</tr>
+</table>
+
 ## Connect With Me
 <a href="mailto:duchuy.tran1299@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
