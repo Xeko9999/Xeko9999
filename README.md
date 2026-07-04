@@ -11,7 +11,7 @@
 💻 Experienced with Python, SQL, Power BI, Tableau, Excel, Machine Learning, and Statistical Analysis
 
 🌏 Based in Sydney, Australia
-
+## Connect With Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duchuy.tran1299@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xekoz/)
 ---
@@ -100,14 +100,6 @@ Vietnam
 - Marketing Analyst
 - Business Intelligence Analyst
 - Customer Analytics
-
----
-
-## Connect With Me
-
-💼 LinkedIn: [(https://www.linkedin.com/in/duc-huy-tran-17963513a/)]
-
-📧 Email: [duchuy.tran1299@gmail.com]
 
 ---
 
