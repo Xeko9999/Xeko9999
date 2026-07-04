@@ -33,14 +33,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Business & Analytics
-- Business Analysis
-- Customer Analytics
-- Marketing Analytics
-- Data Cleaning & Preparation
-- Predictive Analytics
-- Dashboard Development
-- KPI Reporting
-
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-0052CC?style=for-the-badge)
+![Customer Analytics](https://img.shields.io/badge/Customer%20Analytics-0A9396?style=for-the-badge)
+![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-E76F51?style=for-the-badge)
+![Data Cleaning & Preparation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Preparation-6A4C93?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-2A9D8F?style=for-the-badge)
+![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-F4A261?style=for-the-badge)
+![KPI Reporting](https://img.shields.io/badge/KPI%20Reporting-264653?style=for-the-badge)
 ---
 
 ## Featured Projects
