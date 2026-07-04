@@ -18,7 +18,7 @@ A passionate Business Analytics graduate dedicated to transforming data into act
 - 📈 Building real-world analytics projects
 
 \
-##Connect with me:
+Connect with me:
 <a href="mailto:duchuy.tran1299@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
 </a>
