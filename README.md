@@ -12,7 +12,9 @@
 
 🌏 Based in Sydney, Australia
 ## Connect With Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duchuy.tran1299@gmail.com)
+<a href="mailto:duchuy.tran1299@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
+</a>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xekoz/)
 ---
 
