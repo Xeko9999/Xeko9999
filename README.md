@@ -15,8 +15,8 @@
 <a href="mailto:duchuy.tran1299@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
 </a>
-<a href="https://www.linkedin.com/in/xekoz/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/xekoz/">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
 ---
 
