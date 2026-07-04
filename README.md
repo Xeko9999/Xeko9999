@@ -1,7 +1,5 @@
 # Hi, I'm Duc Huy Tran 👋
-
-## About Me
-
+A passionate Business Analytics graduate dedicated to transforming data into actionable insights that drive smarter business decisions.
   <tr>
     <td valign="top" width="55%">
 
