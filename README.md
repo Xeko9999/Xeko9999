@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/xekoz/">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
----
+
 
 ## Technical Skills
 
