@@ -2,17 +2,6 @@
 
 ## About Me
 
-🎓 Master of Business Analytics student at Macquarie University, Sydney
-
-📊 Interested in Business Analytics, Data Analytics, Business Intelligence, Customer Analytics, and Data Visualisation
-
-💡 Passionate about using data to solve business problems, improve decision-making, and uncover actionable insights
-
-💻 Experienced with Python, SQL, Power BI, Tableau, Excel, Machine Learning, and Statistical Analysis
-
-🌏 Based in Sydney, Australia
-
-<table>
   <tr>
     <td valign="top" width="55%">
 
