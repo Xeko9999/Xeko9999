@@ -16,12 +16,6 @@ A passionate Business Analytics graduate dedicated to transforming data into act
 - 🐍 Skilled in Python, SQL, Tableau & Power BI
 - 🤖 Exploring Machine Learning and Predictive Analytics
 - 📈 Building real-world analytics projects
-- 📫 Reach me at **duchuy.tran1299@gmail.com**
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/xekoz/">linkedin.com/in/xekoz</a>
-
-
-
-## Connect With Me
 <a href="mailto:duchuy.tran1299@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
 </a>
