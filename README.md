@@ -15,7 +15,9 @@
 <a href="mailto:duchuy.tran1299@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
 </a>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xekoz/)
+<a href="https://www.linkedin.com/in/xekoz/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
+</a>
 ---
 
 ## Technical Skills
