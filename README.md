@@ -16,6 +16,7 @@ A passionate Business Analytics graduate dedicated to transforming data into act
 - 🐍 Skilled in Python, SQL, Tableau & Power BI
 - 🤖 Exploring Machine Learning and Predictive Analytics
 - 📈 Building real-world analytics projects
+#Connect with me:
 <a href="mailto:duchuy.tran1299@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
 </a>
