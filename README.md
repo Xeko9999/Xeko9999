@@ -20,7 +20,7 @@
 </a>
 
 
-## Technical Skills
+## Tools
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,mysql,vscode,git,github" />
 </p>
