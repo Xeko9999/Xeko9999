@@ -52,7 +52,10 @@ Developed an interactive dashboard to analyse sales, inventory, and product perf
 ### 👥 [Airbnb Price prediction](https://github.com/Xeko9999/melbourne-airbnb-price-prediction)
 Analysed Melbourne Airbnb listing data to uncover pricing drivers and build predictive models that support data-driven pricing decisions. The project combines business analytics, machine learning, and data visualisation to generate actionable insights for hosts and property managers.
 
-Tech Stack: Python • Machine Learning • Feature Engineering • EDA
+Tech Stack: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-6A4C93?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-2A9D8F?style=for-the-badge)
 
 ### 🏥 [Medical Insurance Cost Prediction Using Machine Learning](https://github.com/Xeko9999/Medical-Insurance-Cost-Prediction-using-Machine-Learning)
 
