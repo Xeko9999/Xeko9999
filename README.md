@@ -109,7 +109,7 @@ Vietnam
 - Developing Power BI dashboards
 - Learning advanced machine learning techniques
 - Expanding my analytics portfolio
-
+- This week goal: building Electricity demand forcasting project
 ---
 
 ## Career Interests
